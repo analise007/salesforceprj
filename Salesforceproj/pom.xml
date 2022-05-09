@@ -3,4 +3,7 @@
   <groupId>com.salesforce</groupId>
   <artifactId>Salesforceproj</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  
+  <--POM file code changes to the Master Branch to form a new branch--Team member1>
 </project>
